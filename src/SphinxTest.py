@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-## Example.py
+## SphinxTest.py
 """
 .. centered:: Learing Sphinx
 .. codeauthor:: Shane <chwang12341@gmail.com>
